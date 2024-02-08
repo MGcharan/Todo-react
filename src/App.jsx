@@ -17,13 +17,13 @@ const[item, setItem]=useState([
       {
         id:2,
         checked:"",
-        item:"watching Guvi video"
+        item:"Eating food"
       },
       
       {
         id:3,
         checked:"",
-        item:"Watching movies"
+        item:"sleeping Peacefully"
       } 
   
     ]);
